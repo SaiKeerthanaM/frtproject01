@@ -38,11 +38,13 @@ This is a web based application developed for building dental clinic websites li
 
 
 ## SERVICES-
- 📸 ![Screenshot (23)](https://github.com/SaiKeerthanaM/frtproject01/assets/113778616/4bf4c9ea-0098-47c4-94e3-d570f23eb05a)
+ 📸 ![Screenshot (24)](https://github.com/SaiKeerthanaM/frtproject01/assets/113778616/073fa602-70ea-4be9-999b-d525206dc132)
+
 
 
 ## HEALTHBOT
- 📸 ![Screenshot (26)](https://github.com/SaiKeerthanaM/frtproject01/assets/113778616/60564176-092c-4832-b78b-f911cceeb388)
+ 📸 ![Screenshot (28)](https://github.com/SaiKeerthanaM/frtproject01/assets/113778616/2d9a6a84-93bc-414c-a570-d00a53de6915)
+
 
  ## LICENCE-
   📸 ![Screenshot (27)](https://github.com/SaiKeerthanaM/frtproject01/assets/113778616/9e0070dc-e824-46f2-aee4-621c41ae66b9)
