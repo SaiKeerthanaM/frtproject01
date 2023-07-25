@@ -5,7 +5,7 @@ This is a web based application developed for building dental clinic websites li
 
 
 **Project Link** -https://gray-stone-054323f00.3.azurestaticapps.net
-**Project vedio Link**-
+**Project vedio Link**-https://youtu.be/ToxEGaYHMtk
 
 ## Azure Technologies used for project
 *static web apps
