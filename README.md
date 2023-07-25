@@ -5,6 +5,11 @@ This is a web based application developed for building dental clinic websites li
 
 
 **Project Link** -https://gray-stone-054323f00.3.azurestaticapps.net
+**Project vedio Link**-
+
+## Azure Technologies used for project
+static web apps
+Health bot
 
 ## Key Features and Functionalities 
 
@@ -44,6 +49,14 @@ This is a web based application developed for building dental clinic websites li
 
 ## HEALTHBOT
  📸 ![Screenshot (28)](https://github.com/SaiKeerthanaM/frtproject01/assets/113778616/2d9a6a84-93bc-414c-a570-d00a53de6915)
+
+## TECHSTACK
+*azure
+*HTML
+*CSS
+*JS
+*JAVASCRIPT
+*BOOTSTRAP
 
 
  ## LICENCE-
