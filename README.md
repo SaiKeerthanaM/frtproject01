@@ -9,6 +9,7 @@ This is a web based application developed for building dental clinic websites li
 
 ## Azure Technologies used for project
 *static web apps
+
 *Health bot
 
 ## Key Features and Functionalities 
