@@ -8,8 +8,8 @@ This is a web based application developed for building dental clinic websites li
 **Project vedio Link**-
 
 ## Azure Technologies used for project
-static web apps
-Health bot
+*static web apps
+*Health bot
 
 ## Key Features and Functionalities 
 
