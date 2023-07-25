@@ -53,12 +53,16 @@ This is a web based application developed for building dental clinic websites li
 
 ## TECHSTACK
 *azure
-*HTML
-*CSS
-*JS
-*JAVASCRIPT
-*BOOTSTRAP
 
+*HTML
+
+*CSS
+
+*JS
+ 
+*JAVASCRIPT
+
+*BOOTSTRAP
 
  ## LICENCE-
   📸 ![Screenshot (27)](https://github.com/SaiKeerthanaM/frtproject01/assets/113778616/9e0070dc-e824-46f2-aee4-621c41ae66b9)
